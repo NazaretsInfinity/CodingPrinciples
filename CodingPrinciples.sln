@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingPrinciples", "CodingPrinciples\CodingPrinciples.csproj", "{CB27A894-3E32-426E-B736-3849C2A6BED2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "principlesSOLID", "SOLIDprinciples\principlesSOLID.csproj", "{BF62C0B5-AF68-4ADA-87D5-11110DD89090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC_DependencyInjection", "IoC_DependencyInjection\IoC_DependencyInjection.csproj", "{0F7D275C-9D42-42F6-8E1F-FFF2B2B2448C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BF62C0B5-AF68-4ADA-87D5-11110DD89090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF62C0B5-AF68-4ADA-87D5-11110DD89090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF62C0B5-AF68-4ADA-87D5-11110DD89090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7D275C-9D42-42F6-8E1F-FFF2B2B2448C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7D275C-9D42-42F6-8E1F-FFF2B2B2448C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7D275C-9D42-42F6-8E1F-FFF2B2B2448C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7D275C-9D42-42F6-8E1F-FFF2B2B2448C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
